@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://raja-mantri.sartajalam.in
+Sitemap: https://raja-mantri.sartajalam.in/sitemap.xml

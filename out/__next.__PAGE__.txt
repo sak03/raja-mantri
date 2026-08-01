@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[78941,["/_next/static/chunks/3w-o6qjsmlq08.js","/_next/static/chunks/01apf855s-low.js","/_next/static/chunks/09xh7v6q2vs6u.js"],"GameApp"]
+3:I[97367,["/_next/static/chunks/3w-o6qjsmlq08.js","/_next/static/chunks/01apf855s-low.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","main",null,{"className":"page-main","children":[["$","h1",null,{"className":"sr-only","children":["Raja, Mantri & Sipahi"," — Raja Mantri Chor Sipahi Game Online Free | राजा मंत्री चोर सिपाही"]}],["$","p",null,{"className":"sr-only","children":"Play Raja Mantri Chor Sipahi (राजा मंत्री चोर सिपाही) free online — pass-and-phone chits / parchi game for family. 1–4 players, Hindi & English, no download. Classic Indian parlour game with Raja, Mantri, Sipahi & Chor."}],["$","div",null,{"className":"game-stage","children":["$","div",null,{"className":"game-panel","children":["$","$L2",null,{}]}]}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/09xh7v6q2vs6u.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"ETzthZ8cB_GErvyMrn7tF"}
+5:null
