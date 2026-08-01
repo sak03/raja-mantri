@@ -18,9 +18,8 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: "24"
-          cache: 'npm'
       - uses: actions/configure-pages@v4
-      - run: npm ci
+      - run: npm install         # 'npm ci' की जगह इसे यूज़ करें ताकि lock file न होने पर भी एरर न आए
       - run: npm run build
       - uses: actions/upload-pages-artifact@v3
         with:
